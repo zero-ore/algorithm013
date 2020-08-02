@@ -1,7 +1,7 @@
 #### 方法套路
-1、chunk it up 切碎知识点
-2、deliberate practicing 刻意练习
-3、feedback 反馈
+- chunk it up 切碎知识点
+- deliberate practicing 刻意练习
+- feedback 反馈
 
 #### 五毒刷题法
 - 刷题第一遍：
