@@ -1,3 +1,5 @@
+## 学习笔记
+
 #### 方法套路
 - chunk it up 切碎知识点
 - deliberate practicing 刻意练习
