@@ -16,6 +16,10 @@ func main() {
 	m2 := maxArea2(arr2)
 	fmt.Println(m2)
 
+	//爬楼梯
+	re := climbStairs(6)
+	fmt.Println(re)
+
 	//
 	arr3 := []int{1, 2, 6, 3, 5, 4, 8, 3, 7}
 	count := removeDuplicates(arr3)
