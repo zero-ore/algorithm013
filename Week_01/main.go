@@ -25,4 +25,15 @@ func main() {
 	count := removeDuplicates(arr3)
 	fmt.Println(count)
 
+	arr22 := []int{1, 8, 6, 2, 5, 4, 8, 3, 7}
+	r1 := TwoSum(arr22, 9)
+	fmt.Println(r1)
+
+	r2 := TwoSum2(arr22, 9)
+	fmt.Println(r2)
+
+	arr33 := []int{-1, 0, 1, 2, -1, -4}
+	r3 := threeSum(arr33)
+	fmt.Println(r3)
+
 }
